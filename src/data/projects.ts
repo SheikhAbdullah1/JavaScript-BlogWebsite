@@ -8,8 +8,8 @@ export const projects: Project[] = [
     difficulty: 'Beginner',
     topics: ['DOM Manipulation', 'Events', 'Local Storage', 'Array Methods'],
     preview: 'https://media.istockphoto.com/id/1834594298/photo/businessman-showing-check-mark-summarizing-job-compile-lists-votes-and-to-do-lists-checklists.jpg?s=2048x2048&w=is&k=20&c=4nJ2ZZeLkWGn4XYD3OosUQBNLWhzvs6XTcMU65zxlYs=',
-    demoUrl: 'https://example.com/todo-demo',
-    sourceUrl: 'https://github.com/example/todo-app',
+    demoUrl: 'https://todo-app-firebase-realtime-database.vercel.app/',
+    sourceUrl: 'https://github.com/SheikhAbdullah1/Todo-App-Firebase-Realtime-Database',
     // sourceUrl: 'https://github.com/example/todo-app',
     features: [
       'Add, edit, and delete todos',
@@ -43,8 +43,8 @@ export const projects: Project[] = [
     difficulty: 'Intermediate',
     topics: ['Objects', 'Arrays', 'Timers', 'Local Storage'],
     preview: 'https://images.unsplash.com/photo-1606326608606-aa0b62935f2b?auto=format&fit=crop&q=80&w=2000',
-    demoUrl: 'https://example.com/quiz-demo',
-    sourceUrl: 'https://github.com/example/quiz-app',
+    demoUrl: 'https://chemistry-quiz.vercel.app/',
+    sourceUrl: 'https://github.com/SheikhAbdullah1/Quiz-Chemistry',
     features: [
       'Multiple choice questions',
       'Timer functionality',
@@ -54,17 +54,17 @@ export const projects: Project[] = [
     ]
   },
   {
-    id: 'movie-app',
-    title: 'Movie Search Application',
-    description: 'Create a movie search app using the TMDB API and async JavaScript',
+    id: 'Github Profile',
+    title: 'Github Profile Search Application',
+    description: 'Create a profile search app using the API and async JavaScript',
     difficulty: 'Advanced',
     topics: ['APIs', 'Async/Await', 'DOM Manipulation', 'Search/Filter'],
-    preview: 'https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=2000',
-    demoUrl: 'https://example.com/movie-demo',
-    sourceUrl: 'https://github.com/example/movie-app',
+    preview: 'https://plus.unsplash.com/premium_photo-1681487857509-abb58345e594?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    demoUrl: 'https://githhub-profile-search.vercel.app/',
+    sourceUrl: 'https://github.com/SheikhAbdullah1/Githhub-Profile-Interface',
     features: [
-      'Movie search functionality',
-      'Detailed movie information',
+      'Profile search functionality',
+      'Github information',
       'Rating and reviews',
       'Watchlist feature',
       'Responsive grid layout'
